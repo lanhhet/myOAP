@@ -1,1 +1,2 @@
 hello my new file
+my new file
