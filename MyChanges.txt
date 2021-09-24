@@ -1,1 +1,1 @@
-That's my new file for test git pull and git fetmn
+That's my new file for test git pull and git fetch
